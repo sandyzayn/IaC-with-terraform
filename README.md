@@ -31,3 +31,9 @@ IMAGES BEFORE DESTROY & THE WORKING STATE
 <img width="1919" height="1018" alt="Image" src="https://github.com/user-attachments/assets/ce3faa94-6b08-4418-8a4c-75bd41ccbcfd" />
 
 <img width="1603" height="1018" alt="Image" src="https://github.com/user-attachments/assets/04fdf85e-bca0-4ee8-b8dc-c8ed1d811dd8" />
+
+IMAGES AFTER DESTROY
+
+<img width="1628" height="1019" alt="Image" src="https://github.com/user-attachments/assets/281500a5-31f6-4852-a7dc-3bfa041dbd59" />
+
+<img width="1919" height="1019" alt="Image" src="https://github.com/user-attachments/assets/9be04154-e48a-4162-a859-3b2ed3d6a14f" />
