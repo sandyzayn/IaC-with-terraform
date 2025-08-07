@@ -23,3 +23,11 @@ This project demonstrates how to use **Terraform** to provision a **Docker conta
 - [Terraform](https://developer.hashicorp.com/terraform/downloads) installed (v1.0+)
 - Git installed
 
+IMAGES BEFORE DESTROY & THE WORKING STATE 
+<img width="1919" height="1016" alt="Image" src="https://github.com/user-attachments/assets/d60b31fe-62dd-462b-852f-c16736370dd5" />
+
+<img width="1603" height="1018" alt="Image" src="https://github.com/user-attachments/assets/3098c42a-6ae2-4742-980d-ddce86aec9e1" />
+
+<img width="1919" height="1018" alt="Image" src="https://github.com/user-attachments/assets/ce3faa94-6b08-4418-8a4c-75bd41ccbcfd" />
+
+<img width="1603" height="1018" alt="Image" src="https://github.com/user-attachments/assets/04fdf85e-bca0-4ee8-b8dc-c8ed1d811dd8" />
